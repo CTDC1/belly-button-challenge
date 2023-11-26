@@ -1,0 +1,7 @@
+Belly-Button-Challenge
+
+This repository contains the code for an interactive dashboard. This interactive dashboard was then deployed to GitHub Pages and is accessible via this link: https://CTDC1.github.io.
+
+The interactive dashboard explores the Belly Button Biodiversity data publicly available at http://robdunnlab.com/projects/belly-button-biodiversity/. On the interactive dashboard, you can interact with two different charts. A bar chart and a bubble chart. Both show the data related to the test subject ID type. You can change the subject ID type using the drop-down menu, and the charts will be updated. This was created using the following steps:
+
+-	Look at app.js to review how I was able to create the interactive dashboard. 
